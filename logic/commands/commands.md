@@ -84,4 +84,4 @@ These are internal and usually triggered during `run`.
 
 ---
 
-*Note: All commands respect the current edition rules and will disable or restrict behavior based on internal logic.*
+**Note:** *Command may be changed during the development process, if you'd like to introduce a new one open a pr*
