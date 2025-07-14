@@ -82,4 +82,6 @@ For contributions, discussions, or collaboration, check the repo once it is open
 
 ---
 
-More coming soon.
+### Links
+
+[Editions.md](https://github.com/LilCloudCoder/devx/blob/main/logic/core/modules/EDITIONS.md)
